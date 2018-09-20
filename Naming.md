@@ -2,7 +2,7 @@
 
 ## Constants
 
-Write constants in `CamelCase`, not `UPPERCASE`.
+Write constants in `UPPERCASE`.
 
 ```csharp
 // We don't understand this is a constant!!
